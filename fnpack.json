@@ -8,19 +8,24 @@
     "fnmusic-ext": {
       "display_name": "飞牛音乐在线源扩展",
       "desc": "为飞牛音乐接入网易云、musicdl、洛雪等在线音源的无侵入扩展。",
-      "platform": ["x86", "arm64"],
+      "platform": ["x86", "arm"],
       "categories": ["影音娱乐"],
-      "icon_url": "https://raw.githubusercontent.com/12hgl/fnos_music_ext/main/assets/icon.png",
+      "icon_url": "fnos_music_ext/ICON.png",
       "run_as": "package",
+      "install_type": "",
       "is_docker": false,
       "releases": {
         "2.7.6": {
           "packages": {
             "x86": {
-              "download_url": "https://github.com/12hgl/fnos_music_ext/releases/download/v2.7.6/fnmusic-ext-2.7.6.fpk"
+              "download_url": "https://github.com/12hgl/fnos_music_ext/releases/download/v2.7.6/fnmusic-ext-2.7.6.fpk",
+              "sha256": "87d6ca59723165750595cb31ee6f9185d22922e83291d7a4d76bdfdfa76710bd",
+              "size": 1096576
             },
-            "arm64": {
-              "download_url": "https://github.com/12hgl/fnos_music_ext/releases/download/v2.7.6/fnmusic-ext-2.7.6-arm64.fpk"
+            "arm": {
+              "download_url": "https://github.com/12hgl/fnos_music_ext/releases/download/v2.7.6/fnmusic-ext-2.7.6-arm64.fpk",
+              "sha256": "f697528fc13102b19d5ce3a7fe16e3c10e7fb899e4232a34d568ca3679e57685",
+              "size": 1096581
             }
           }
         }
