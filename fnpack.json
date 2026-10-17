@@ -15,16 +15,14 @@
       "install_type": "",
       "is_docker": false,
       "releases": {
-        "2.7.6": {
+        "3.1.1": {
           "packages": {
             "x86": {
-              "download_url": "https://github.com/12hgl/fnos_music_ext/releases/download/v2.7.6/fnmusic-ext-2.7.6.fpk",
-              "sha256": "87d6ca59723165750595cb31ee6f9185d22922e83291d7a4d76bdfdfa76710bd",
+              "download_url": "https://raw.githubusercontent.com/12hgl/fnos_music_ext/refs/heads/main/latest/fnmusic-ext.fpk",
               "size": 1096576
             },
             "arm": {
-              "download_url": "https://github.com/12hgl/fnos_music_ext/releases/download/v2.7.6/fnmusic-ext-2.7.6-arm64.fpk",
-              "sha256": "f697528fc13102b19d5ce3a7fe16e3c10e7fb899e4232a34d568ca3679e57685",
+              "download_url": "https://raw.githubusercontent.com/12hgl/fnos_music_ext/refs/heads/main/latest/fnmusic-ext.fpk",
               "size": 1096581
             }
           }
