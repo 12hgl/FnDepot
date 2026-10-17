@@ -10,7 +10,7 @@
       "desc": "为飞牛音乐接入网易云、musicdl、洛雪等在线音源的无侵入扩展。",
       "platform": ["x86", "arm"],
       "categories": ["影音娱乐"],
-      "icon_url": "fnos_music_ext/ICON.png",
+      "icon_url": "https://github.com/12hgl/fnos_music_ext/blob/main/packaging/fpk/icons/master.png",
       "run_as": "package",
       "install_type": "",
       "is_docker": false,
